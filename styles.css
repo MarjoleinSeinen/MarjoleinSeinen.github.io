@@ -27,9 +27,6 @@ header {
   background-color: rgb(187, 252, 244);
   height: 200px;
   text-align: center;
-  display: grid;
-  grid-template-columns: 100%;
-  grid-template-rows: 100%;
   position: relative;
 }
 
