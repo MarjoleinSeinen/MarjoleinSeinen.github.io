@@ -27,9 +27,21 @@ header {
   background-color: rgb(187, 252, 244);
   height: 200px;
   text-align: center;
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 100%;
+  position: relative;
 }
 
-#nameContainer {
+main {
+  color: white;
+  background-color: black;
+}
+
+div.container {
+  top: 50%
+  left: 50%
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
   height: 80px;
-  vertical-align: middle;
 }
