@@ -31,9 +31,11 @@ header {
 }
 
 main {
-  padding-top: 200px;
+  padding-top: 30px;
   color: white;
   background-color: black;
+  height: 500px;
+  display: block;
 }
 
 div.container {
@@ -43,4 +45,8 @@ div.container {
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, -50%);
+}
+
+p, h3 {
+  padding: 5px;
 }
