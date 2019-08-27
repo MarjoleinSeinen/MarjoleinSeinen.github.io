@@ -3,6 +3,10 @@
   padding:0px;
 }
 
-p {
+p, h1, h2, h3 {
   font: 20px Tahoma;
+}
+
+p {
+
 }
