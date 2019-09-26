@@ -3,6 +3,25 @@
   padding:0px;
 }
 
+body {
+background-color: #1c0037ff;
+}
+
+header {
+  background-color: rgb(187, 252, 244);
+  height: 200px;
+  text-align: center;
+  position: relative;
+}
+
+main {
+  padding-top: 30px;
+  color: white;
+  background-color: black;
+  height: 500px;
+  display: block;
+}
+
 p, h1, h2, h3 {
   font-family: Tahoma, Arial, sans-serif;
 }
@@ -21,21 +40,6 @@ h2 {
 
 h3 {
   font-size: 30px;
-}
-
-header {
-  background-color: rgb(187, 252, 244);
-  height: 200px;
-  text-align: center;
-  position: relative;
-}
-
-main {
-  padding-top: 30px;
-  color: white;
-  background-color: black;
-  height: 500px;
-  display: block;
 }
 
 div.container {
