@@ -5,10 +5,10 @@
 
 body {
 background-color: rgb(28,0,55);
+color: white;
 }
 
 header {
-  background-color: rgb(187, 252, 244);
   height: 200px;
   text-align: center;
   position: relative;
@@ -16,8 +16,6 @@ header {
 
 main {
   padding-top: 30px;
-  color: white;
-  background-color: black;
   height: 500px;
   display: block;
 }
@@ -53,4 +51,9 @@ div.container {
 
 p, h3 {
   padding: 5px;
+}
+
+div.page-btn {
+background-color: white;
+color: black;
 }
