@@ -56,4 +56,6 @@ p, h3 {
 div.page-btn {
 background-color: white;
 color: black;
+height: 50px;
+width: 100px;
 }
