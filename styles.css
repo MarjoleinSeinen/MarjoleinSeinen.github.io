@@ -68,13 +68,18 @@ p, h3 {
 }
 
 div.container {
-  height: fit-content;
+  height: 200px;
   clear: both;
+}
+
+.imgConstal {
+  
 }
 
 .project-container {
   float: left;
   width: 33.33%;
+  max-width: 300px;
   padding: 10px;
 }
 
