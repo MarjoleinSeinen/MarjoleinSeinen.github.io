@@ -6,6 +6,7 @@
 body {
 background-color: rgb(28,0,55);
 color: white;
+font-family: Tahoma, Arial, sans-serif;
 }
 
 header {
@@ -50,10 +51,6 @@ main {
   display: block;
 }
 
-p, h1, h2, h3 {
-  font-family: Tahoma, Arial, sans-serif;
-}
-
 p {
   font-size: 15px;
 }
@@ -88,4 +85,9 @@ background-color: white;
 color: black;
 height: 50px;
 width: 100px;
+}
+
+footer {
+bottom: 0;
+background-color: white;
 }
